@@ -1,0 +1,20 @@
+# Archivos y directorios de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno
+.env
+*.env
+
+# Archivos y carpetas generados por IDEs
+.idea/
+.vscode/
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
+
+
+.idea/

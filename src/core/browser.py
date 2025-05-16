@@ -1,5 +1,5 @@
 from selenium import webdriver
-from src.core.Config import Config
+from core.Config import Config
 
 class Browser:
     #
